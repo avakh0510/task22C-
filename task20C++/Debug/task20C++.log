@@ -1,5 +1,5 @@
 ﻿  task20C++.cpp
-F:\ITStep\DZ\клас ДАІ task20 exception\task20C++\task20C++\task20C++.cpp(49,137): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-F:\ITStep\DZ\клас ДАІ task20 exception\task20C++\task20C++\task20C++.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
-F:\ITStep\DZ\клас ДАІ task20 exception\task20C++\task20C++\task20C++.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
-  task20C++.vcxproj -> F:\ITStep\DZ\клас ДАІ task20 exception\task20C++\Debug\task20C++.exe
+F:\ITStep\DZ\клас task20 exception\task20C++\task20C++\task20C++.cpp(49,137): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ITStep\DZ\клас task20 exception\task20C++\task20C++\task20C++.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+F:\ITStep\DZ\клас task20 exception\task20C++\task20C++\task20C++.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+  task20C++.vcxproj -> F:\ITStep\DZ\клас task20 exception\task20C++\Debug\task20C++.exe

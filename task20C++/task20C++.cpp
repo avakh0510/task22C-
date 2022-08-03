@@ -96,7 +96,7 @@ int main()
 	//u.Register("Aghg", "1234h","1234h");
 	try
 	{
-		u.Register("Ag123_+", "123i","123i");
+		u.Register("Ag123_", "123i","123jgh");
 	}
 	catch (WrongLoginException ex)
 	{
